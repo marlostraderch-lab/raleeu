@@ -68,3 +68,28 @@ http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=577991&extension
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Globo
 http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264212&extension=ts&play_token=euR8kJRzcU
+
+#EXTINF:-1,ESPN NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891275&extension=ts&play_token=2nuOa32RI5
+#EXTINF:-1,ESPN 2 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891274&extension=ts&play_token=4UUMztn9Rr
+#EXTINF:-1,ESPN 3 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891273&extension=ts&play_token=zNEfpA7lYm
+#EXTINF:-1,ESPN 4 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891272&extension=ts&play_token=fQyuxMQtFf
+#EXTINF:-1,Ziggo Sport NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891271&extension=ts&play_token=Tpk4t0cfP1
+#EXTINF:-1,Ziggo Sport 2 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891269&extension=ts&play_token=SBorFELYJg
+#EXTINF:-1,Ziggo Sport 3 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891268&extension=ts&play_token=Ez31yysYwB
+#EXTINF:-1,Ziggo Sport 4 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891267&extension=ts&play_token=mhu1EmJ2fe
+#EXTINF:-1,Ziggo Sport 5 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891266&extension=ts&play_token=Y8yYul2yIe
+#EXTINF:-1,Ziggo Sport 6 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891263&extension=ts&play_token=hs0mirlD5w
+#EXTINF:-1,Eurosport 1 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891265&extension=ts&play_token=xXSe2Yc19q
+#EXTINF:-1,Eurosport 2 NL
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891264&extension=ts&play_token=tcclk4buNd
