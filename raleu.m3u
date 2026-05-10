@@ -94,6 +94,67 @@ http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891265&extension
 #EXTINF:-1,Eurosport 2 NL
 http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891264&extension=ts&play_token=tcclk4buNd
 
+#EXTINF:-1,Maluco 1
+http://cdnbroken.xyz/live/170708497/476258944/187260.ts
+
+#EXTINF:-1,Maluco 2
+http://cdnbroken.xyz/live/170708497/476258944/187262.ts
+
+#EXTINF:-1,Sportv 1 SK
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264287&extension=ts&play_token=Wh81jPx6il
+
+#EXTINF:-1,Sportv 2 SK
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264288&extension=ts&play_token=jwplgbtYmX
+
+#EXTINF:-1,Sportv 3 PT
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264289&extension=ts&play_token=fh9bJdvVwC
+
+#EXTINF:-1,ESPN BR 2
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264272&extension=ts&play_token=msYPSKpvos
+
+#EXTINF:-1,ESPN BR 4
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264274&extension=ts&play_token=muh3YJOptz
+
+#EXTINF:-1,HBO 2
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264312&extension=ts&play_token=35fcbSLweS
+
+#EXTINF:-1,HBO Family
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264313&extension=ts&play_token=S0vej0dVgD
+
+#EXTINF:-1,HBO Signature
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264315&extension=ts&play_token=Pa30i9U7Wo
+
+#EXTINF:-1,HBO Plus
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264314&extension=ts&play_token=BeE1tzHQfp
+
+#EXTINF:-1,ESPN Tipo BR
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=1371673&extension=ts&play_token=AZF9tZo7ol
+
+#EXTINF:-1,ESPN 2 Tipo BR
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=1371541&extension=ts&play_token=Z5zutxzlM5
+
+#EXTINF:-1,ESPN Lat 3
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264909&extension=ts&play_token=cTrxhQhd0I
+
+#EXTINF:-1,ESPN Lat T3
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264910&extension=ts&play_token=qMEn1mO3NU
+
+#EXTINF:-1,ESPN Arg Premium
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=824571&extension=ts&play_token=GnNiqhoy2L
+
+#EXTINF:-1,ESPN 1 Arg
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=265167&extension=ts&play_token=lTtogjnVct
+
+#EXTINF:-1,Premiere 3
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264280&extension=ts&play_token=TMq7Z2qRAX
+
+#EXTINF:-1,Premiere 4
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264281&extension=ts&play_token=0MMh5Xhv1y
+
+#EXTINF:-1,Premiere 8
+http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264285&extension=ts&play_token=QEEl6lKsoV
+
+
 #EXTINF:-1,SPORTV BR 1
 http://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:B5:BE:8E&stream=59184&extension=ts&play_token=69G7mdemIa
 
