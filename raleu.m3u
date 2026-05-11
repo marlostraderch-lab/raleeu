@@ -223,3 +223,73 @@ http://vpn.onair8k.xyz/play/live.php?mac=00:1A:79:B5:BE:8E&stream=59194&extensio
 
 #EXTINF:-1, Globo sp
 http://Skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264214&extension=ts&play_token=2CTrATGAU3
+
+
+#EXT
+# --- REINO UNIDO ---
+#EXTINF:-1 group-title="UK", Tntsports uk 
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=30564&extension=ts&play_token=114G8vRLjX
+
+# --- HOLANDA (NL) ---
+#EXTINF:-1 group-title="Holanda", Espn holanda
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1283325&extension=ts&play_token=6uHmYVFcJn
+
+#EXTINF:-1 group-title="Holanda", Espn2 nl
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1283323&extension=ts&play_token=KpKKrzpcsh
+
+#EXTINF:-1 group-title="Holanda", Espn3 nl
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1283321&extension=ts&play_token=BbxleYvmx7
+
+#EXTINF:-1 group-title="Holanda", Espn 4 nl
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1283319&extension=ts&play_token=9Q3uNWoaDP
+
+# --- ARGENTINA ---
+#EXTINF:-1 group-title="Argentina", Espn arg
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1358605&extension=ts&play_token=XTgDSk9aVk
+
+#EXTINF:-1 group-title="Argentina", Espn2 arg
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1358604&extension=ts&play_token=JAaeIspaXT
+
+#EXTINF:-1 group-title="Argentina", Espn3 arg
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1358603&extension=ts&play_token=MGYVOBl7Ey
+
+#EXTINF:-1 group-title="Argentina", Espn4 arg
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1358602&extension=ts&play_token=J67JfondNc
+
+# --- LATINO AMÉRICA ---
+#EXTINF:-1 group-title="Latino", Espnlat
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=552836&extension=ts&play_token=Xb1qTldETj
+
+#EXTINF:-1 group-title="Latino", Espn2 lat
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1870414&extension=ts&play_token=m7zqYUbsl5
+
+#EXTINF:-1 group-title="Latino", Espn3 lat
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1870820&extension=ts&play_token=7SDZ1PFRM2
+
+#EXTINF:-1 group-title="Latino", Espn4 lat
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1870845&extension=ts&play_token=5OdjGKnWm9
+
+#EXTINF:-1 group-title="Latino", Foxsp lat
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1869641&extension=ts&play_token=qWREjpNmO2
+
+#EXTINF:-1 group-title="Latino", Foxsp lat2
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1869638&extension=ts&play_token=cLZkEEi1S8
+
+#EXTINF:-1 group-title="Latino", Foxsp lat3
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1869635&extension=ts&play_token=DpgdBObyvh
+
+#EXTINF:-1 group-title="Latino", Foxsp lat4
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1869633&extension=ts&play_token=UiDBuK1cLs
+
+# --- ESPANHA ---
+#EXTINF:-1 group-title="Espanha", Foxsp esp
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1972970&extension=ts&play_token=vOTaHnKRPN
+
+#EXTINF:-1 group-title="Espanha", Foxsp esp2
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1972969&extension=ts&play_token=qrlKTyokIV
+
+#EXTINF:-1 group-title="Espanha", Foxsp esp3
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1972968&extension=ts&play_token=450Sfz53nJ
+
+#EXTINF:-1 group-title="Espanha", Foxsp esp4
+http://klaratv.com/play/live.php?mac=00:1B:79:47:63:95&stream=1972967&extension=ts&play_token=WNKu096Hjq
