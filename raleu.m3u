@@ -69,6 +69,10 @@ http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=577991&extension
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Globo
 http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=264212&extension=ts&play_token=euR8kJRzcU
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal_globorj" group-title="Live TV", Canal globorj
+http://Vpn.onair8k.xyz/play/live.php?mac=00:1A:79:B5:BE:8E&stream=59241&extension=ts&play_token=JKMdqNnbY7
+
 #EXTINF:-1,ESPN NL
 http://skunkytv.live/play/live.php?mac=00:1A:79:21:8C:72&stream=891275&extension=ts&play_token=2nuOa32RI5
 #EXTINF:-1,ESPN 2 NL
